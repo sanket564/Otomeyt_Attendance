@@ -33,7 +33,7 @@ const MainContent = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 0 15px;
+  padding: 0 20px;
   box-sizing: border-box;
 `;
 
