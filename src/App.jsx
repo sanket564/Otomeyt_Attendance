@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
+// THIS IS THE APPLICATION PAGE OF THE REACT
 import Navbar from './components/Common/Navbar';
 import PrivateRoute from './components/Common/PrivateRoute';
 import LoginPage from './pages/LoginPage';
