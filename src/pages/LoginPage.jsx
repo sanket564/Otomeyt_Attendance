@@ -91,7 +91,7 @@ const LoginPage = () => {
   return (
     <PageWrapper>
       <LoginCard>
-        <Logo src={logo} alt="Otomeyt AI" />
+        <Logo src={logo} alt="Otomeyt AI Attendance" />
         <Title>Welcome Back</Title>
         <Subtitle>Sign in to your account</Subtitle>
 
