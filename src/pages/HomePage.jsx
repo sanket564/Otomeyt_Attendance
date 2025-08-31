@@ -183,7 +183,7 @@ const HomePage = () => {
         <HeroContent>
           <HeroTitle>OtomeytAi Attendance Management System</HeroTitle>
           <HeroSubtitle>
-            Streamline your workforce tracking with our intuitive platform
+            Streamline your workforce tracking with our intuitive platform and it is good
           </HeroSubtitle>
           <HeroButtons>
             <PrimaryButton to="/login">Get Started</PrimaryButton>
